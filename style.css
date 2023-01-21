@@ -10,9 +10,11 @@ body {
   background: whitesmoke;
   font-family: Lato, sans-serif;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
+
 
 .header {
   background: dodgerblue;
